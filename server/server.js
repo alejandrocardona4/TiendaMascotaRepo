@@ -1,0 +1,1 @@
+console.log('Este es el mensaje de advertencia de la tienda de mascotas');
